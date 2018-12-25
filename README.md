@@ -1,3 +1,7 @@
+# Learning ReactJS
+
+This is a project based off the amazing [tutorial](https://www.taniarascia.com/getting-started-with-react/) provided by Tania Rascia which I stumbled upon at the official [documentation](https://reactjs.org/) for ReactJS
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
